@@ -12,7 +12,8 @@
 
 ## Liste des exercices HTML
 
-Comme vous l’avez sûrement remarqué, la page GitHub [hepl-cpw](https://github.com/hepl-cpw), qui regroupe les exercices du cours, _déborde_ littéralement d’exercices.  
+Comme vous l’avez sûrement remarqué, la page GitHub [hepl-cpw](https://github.com/hepl-cpw), qui regroupe les exercices du cours, _déborde_ littéralement d’exercices. 
+ 
 GitHub affiche les exercices dans l’ordre des modifications les plus récentes, ce qui est pratique en règle générale, mais un peu moins dans notre contexte, où vous suivez un programme de cours progressif.
 Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 
@@ -21,6 +22,7 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 1. [html-phrasing](https://github.com/hepl-cpw/html-phrasing)
 1. [html-entities](https://github.com/hepl-cpw/html-entities)
 1. [html-bugdroid](https://github.com/hepl-cpw/html-bugdroid)
+1. [html-fab-lafontaine](https://github.com/hepl-cpw/html-fab-lafontaine)
 
 ### Listes
 

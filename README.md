@@ -23,6 +23,7 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 1. [html-entities](https://github.com/hepl-cpw/html-entities)
 1. [html-bugdroid](https://github.com/hepl-cpw/html-bugdroid)
 1. [html-fab-lafontaine](https://github.com/hepl-cpw/html-fab-lafontaine)
+1. [html-rem-listes-a-gogo1-3](https://github.com/pworontzoff/html-rem-listes-a-gogo1-3
 
 ### Listes
 

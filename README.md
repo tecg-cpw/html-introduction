@@ -48,6 +48,7 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 1. [html-outline-hipster](https://github.com/hepl-cpw/html-outline-hipster)
 1. [html-rubber](https://github.com/hepl-cpw/html-rubber)
 1. [html-group](https://github.com/hepl-cpw/html-group)
+1. [html-rem-listes-a-gogo3-3](https://github.com/pworontzoff/html-rem-listes-a-gogo3-3)
 
 ### Tableaux
 

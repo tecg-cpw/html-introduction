@@ -61,6 +61,7 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 1. [html-table-complex](https://github.com/hepl-cpw/html-table-complex)
 1. [html-table-schedule](https://github.com/hepl-cpw/html-table-schedule)
 1. [html-table-nye](https://github.com/hepl-cpw/html-table-nye)
+1. [html-rem-table-cotes](https://github.com/pworontzoff/html-rem-tab-de-cotes)
 
 ### Formulaires
 

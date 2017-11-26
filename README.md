@@ -23,6 +23,7 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 1. [html-entities](https://github.com/hepl-cpw/html-entities)
 1. [html-bugdroid](https://github.com/hepl-cpw/html-bugdroid)
 1. [html-fab-lafontaine](https://github.com/hepl-cpw/html-fab-lafontaine)
+1. [html-rem-listes-a-gogo1-3](https://github.com/pworontzoff/html-rem-listes-a-gogo1-3)
 
 ### Listes
 
@@ -31,12 +32,14 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 1. [html-lists-kemar](https://github.com/hepl-cpw/html-lists-kemar)
 1. [html-lists-falafels](https://github.com/hepl-cpw/html-lists-falafels)
 1. [html-lists-canon](https://github.com/hepl-cpw/html-lists-canon)
+1. [html-rem-listes-a-gogo1-3](https://github.com/pworontzoff/html-rem-listes-a-gogo1-3)
 
 ### Images & chemins
 
 1. [html-image-alt](https://github.com/hepl-cpw/html-image-alt)
 1. [html-relative-paths](https://github.com/hepl-cpw/html-relative-paths)
 1. [html-figcaption](https://github.com/hepl-cpw/html-figcaption)
+1. [html-rem-listes-a-gogo2-3](https://github.com/pworontzoff/html-rem-listes-a-gogo2-3)
 
 ### Outline
 
@@ -45,6 +48,7 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 1. [html-outline-hipster](https://github.com/hepl-cpw/html-outline-hipster)
 1. [html-rubber](https://github.com/hepl-cpw/html-rubber)
 1. [html-group](https://github.com/hepl-cpw/html-group)
+1. [html-rem-listes-a-gogo3-3](https://github.com/pworontzoff/html-rem-listes-a-gogo3-3)
 
 ### Tableaux
 
@@ -57,6 +61,7 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 1. [html-table-complex](https://github.com/hepl-cpw/html-table-complex)
 1. [html-table-schedule](https://github.com/hepl-cpw/html-table-schedule)
 1. [html-table-nye](https://github.com/hepl-cpw/html-table-nye)
+1. [html-rem-table-cotes](https://github.com/pworontzoff/html-rem-tab-de-cotes)
 
 ### Formulaires
 

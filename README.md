@@ -72,7 +72,7 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 1. [html-form-login-appel-3D](https://github.com/hepl-cpw/html-form-login-appel-3D)
 1. [html-form-login-registration](https://github.com/hepl-cpw/html-form-login-registration)
 
-### Microdata
+### Microdatas
 
 1. [html-microdata-simple](https://github.com/hepl-cpw/html-microdata-simple)
 1. [html-microdata-contact](https://github.com/hepl-cpw/html-microdata-contact)

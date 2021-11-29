@@ -55,14 +55,14 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 1. [html-table-base](https://github.com/hepl-cpw/html-table-base)
 1. [html-table-grades](https://github.com/hepl-cpw/html-table-grades)
 1. [html-table-reddevils](https://github.com/hepl-cpw/html-table-reddevils)
-1. [html-table-fusion-lines](https://github.com/hepl-cpw/html-table-fusion-lines)
 1. [html-table-fusion-columns](https://github.com/hepl-cpw/html-table-fusion-columns)
+1. [html-table-fusion-lines](https://github.com/hepl-cpw/html-table-fusion-lines)
+1. [html-table-openweb](https://github.com/hepl-cpw/html-table-openweb)
 1. [html-table-colors](https://github.com/hepl-cpw/html-table-colors)
 1. [html-table-complex](https://github.com/hepl-cpw/html-table-complex)
 1. [html-table-schedule](https://github.com/hepl-cpw/html-table-schedule)
 1. [html-table-nye](https://github.com/hepl-cpw/html-table-nye)
 1. [html-rem-table-cotes](https://github.com/pworontzoff/html-rem-tab-de-cotes)
-1. [html-table-openweb](https://github.com/hepl-cpw/html-table-openweb)
 
 ### Formulaires
 

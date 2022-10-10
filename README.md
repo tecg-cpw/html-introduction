@@ -19,20 +19,20 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 
 ### Bases
 
-1. [html-phrasing](https://github.com/tecg-cpw/html-phrasing)
-1. [html-entities](https://github.com/tecg-cpw/html-entities)
 1. [html-bugdroid](https://github.com/tecg-cpw/html-bugdroid)
-1. [html-fab-lafontaine](https://github.com/tecg-cpw/html-fab-lafontaine)
-1. [html-rem-listes-a-gogo1-3](https://github.com/pworontzoff/html-rem-listes-a-gogo1-3)
+2. [html-phrasing](https://github.com/tecg-cpw/html-phrasing)
+3. [html-entities](https://github.com/tecg-cpw/html-entities)
+5. [html-fab-lafontaine](https://github.com/tecg-cpw/html-fab-lafontaine)
+6. [html-rem-listes-a-gogo1-3](https://github.com/pworontzoff/html-rem-listes-a-gogo1-3)
 
 ### Listes
 
-1. [html-lists-base](https://github.com/tecg-cpw/html-lists-base)
-1. [html-lists-nested](https://github.com/tecg-cpw/html-lists-nested)
 1. [html-lists-kemar](https://github.com/tecg-cpw/html-lists-kemar)
-1. [html-lists-falafels](https://github.com/tecg-cpw/html-lists-falafels)
-1. [html-lists-canon](https://github.com/tecg-cpw/html-lists-canon)
-1. [html-rem-listes-a-gogo1-3](https://github.com/pworontzoff/html-rem-listes-a-gogo1-3)
+2. [html-lists-base](https://github.com/tecg-cpw/html-lists-base)
+3. [html-lists-nested](https://github.com/tecg-cpw/html-lists-nested)
+5. [html-lists-falafels](https://github.com/tecg-cpw/html-lists-falafels)
+6. [html-lists-canon](https://github.com/tecg-cpw/html-lists-canon)
+7. [html-rem-listes-a-gogo1-3](https://github.com/pworontzoff/html-rem-listes-a-gogo1-3)
 
 ### Images & chemins
 

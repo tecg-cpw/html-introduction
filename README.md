@@ -13,7 +13,7 @@
 ## Liste des exercices HTML
 
 Comme vous l’avez sûrement remarqué, la page GitHub [tecg-cpw](https://github.com/tecg-cpw), qui regroupe les exercices du cours, _déborde_ littéralement d’exercices. 
- 
+
 GitHub affiche les exercices dans l’ordre des modifications les plus récentes, ce qui est pratique en règle générale, mais un peu moins dans notre contexte, où vous suivez un programme de cours progressif.
 Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 
@@ -30,9 +30,10 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 1. [html-lists-kemar](https://github.com/tecg-cpw/html-lists-kemar)
 2. [html-lists-base](https://github.com/tecg-cpw/html-lists-base)
 3. [html-lists-nested](https://github.com/tecg-cpw/html-lists-nested)
-5. [html-lists-falafels](https://github.com/tecg-cpw/html-lists-falafels)
-6. [html-lists-canon](https://github.com/tecg-cpw/html-lists-canon)
-7. [html-rem-listes-a-gogo1-3](https://github.com/pworontzoff/html-rem-listes-a-gogo1-3)
+4. [html-lists-falafels](https://github.com/tecg-cpw/html-lists-falafels)
+5. [html-lists-canon](https://github.com/tecg-cpw/html-lists-canon)
+6. [html-rem-listes-a-gogo1-3](https://github.com/pworontzoff/html-rem-listes-a-gogo1-3)
+7. [html-glossaire](https://github.com/tecg-cpw/html-glossaire)
 
 ### Images & chemins
 
